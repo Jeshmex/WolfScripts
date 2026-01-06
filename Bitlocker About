@@ -1,0 +1,4 @@
+## What must be accomplished
+### Detection script: Checks if a device meets Bitlocker AES-256 encryption
+### Remediation script: Fixes the issue if device does not meet the AES-256 encryption requirement
+### There will be a report compliance status on intune
